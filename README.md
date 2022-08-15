@@ -9,8 +9,10 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 
 [comment]: <> (Add a cool button to portfolio here - possibly also linkin and twitter?)
 
-# Skills
+# Skillset
 <img align="right" height="250" width="375" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/womanCoder.gif" />
+
+### Skils
 
 | Languages   |      Technical Skills      |  Soft Skills      |
 |-------------|----------------------------|-------------------|
@@ -27,10 +29,13 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 <br />
 
 ### Certificates:
-- Advanced Software Developer -> University of Phoenix
+- [Advanced Software Developer](https://www.credly.com/badges/0b6d8661-ac8f-473e-b0fd-f06f5f79beae/public_url) -> University of Phoenix
 - App Development with Swift Associate -> Apple
 - App Development with Swift Certified User -> Apple
 - The Git and GitHub Bootcamp -> Udemy
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0b6d8661-ac8f-473e-b0fd-f06f5f79beae" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
 <br />
 
