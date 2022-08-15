@@ -29,7 +29,7 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 <br />
 
 ### Certificates:
-- [Advanced Software Developer](https://www.phoenix.edu/cecredential-validation.html) CeDID 226K-MFM3-MTDD from University of Phoenix
+- [Advanced Software Developer (CeDID 226K-MFM3-MTDD)](https://www.phoenix.edu/cecredential-validation.html) from UoP
 - [App Development with Swift Associate](https://www.credly.com/badges/0b6d8661-ac8f-473e-b0fd-f06f5f79beae/public_url) from Apple
 - [App Development with Swift Certified User](https://www.credly.com/badges/13b5dc4a-6147-439d-899d-9c2932ad781d/public_url) from Apple
 - [The Git and GitHub Bootcamp](https://www.udemy.com/certificate/UC-58523416-3ac5-4138-ac73-8ebee4cae759/) from Udemy
