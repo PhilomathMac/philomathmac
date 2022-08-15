@@ -10,9 +10,9 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 [comment]: <> (Add a cool button to portfolio here - possibly also linkin and twitter?)
 
 # Skillset
-<img align="right" height="250" width="375" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/womanCoder.gif" />
+<img align="right" width="40%" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/womanCoder.gif" />
 
-### Skils
+### Skills
 
 | Languages   |      Technical Skills      |  Soft Skills      |
 |-------------|----------------------------|-------------------|
@@ -23,7 +23,7 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 | Markdown    | Version Control            |    Collaboration  |
 | Java        | Git                        |    Communication  |
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/Philomath.png" />
+<img align="right" width="40%" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/Philomath.png" />
 
 <br />
 <br />
