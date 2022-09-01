@@ -21,7 +21,7 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 | Java        | SwiftUI                    |    Quick Learner  |
 | HTML        | Debugging                  |    Flexibility    |
 | Markdown    | Version Control            |    Collaboration  |
-| Java        | Git                        |    Communication  |
+| .NET        | Git                        |    Communication  |
 
 <img align="right" width="40%" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/Philomath.png" />
 
