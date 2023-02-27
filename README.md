@@ -28,6 +28,7 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 
 <br />
 <br />
+<br />
 
 ### Certificates:
 - [Advanced Software Developer (CeDID 226K-MFM3-MTDD)](https://www.phoenix.edu/cecredential-validation.html) from UoP
@@ -46,6 +47,10 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 <a href="https://github.com/philomathmac/github-readme-stats">
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philomathmac&layout=compact&theme=buefy" />
 </a>
+
+<br />
+<br />
+<br />
 
 # Featured Repos
 
