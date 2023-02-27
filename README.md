@@ -5,7 +5,7 @@
 
 I'm a former science teacher 👩‍🔬 who loves learning! Coding 👩‍💻 used to be my hobby and I loved teaching after-school-students programming. During the pandemic, I realized I really wanted to make my hobby my job. So for the last year I've really buckled down and have dedicated myself to my ✨ dream job journey ✨! 
 
-In the last year, I've graduated 🎓 with a second bachelors in Information Technology and achieved several programming certificates 🏆. I'm open for hiring right now ‼️ and can't wait to find my dream job!
+In the last year, I've graduated 🎓 with a second bachelors in Information Technology and achieved several programming certificates 🏆. I currently work as a software developer for Approachable Geek building beautiful custom applications.
 
 [comment]: <> (Add a cool button to portfolio here - possibly also linkin and twitter?)
 
@@ -17,6 +17,7 @@ In the last year, I've graduated 🎓 with a second bachelors in Information Tec
 | Languages   |      Technical Skills      |  Soft Skills      |
 |-------------|----------------------------|-------------------|
 | Swift       |  XCode                     | Organiation       |
+| Dart        |  Flutter                   | Agile Development |
 | Python      |    UIKit                   |  Time Management  |
 | Java        | SwiftUI                    |    Quick Learner  |
 | HTML        | Debugging                  |    Flexibility    |
