@@ -3,9 +3,7 @@
 </div>
 <br />
 
-I'm a former science teacher 👩‍🔬 who loves learning! Coding 👩‍💻 used to be my hobby and I loved teaching after-school-students programming. During the pandemic, I realized I really wanted to make my hobby my job. So for the last year I've really buckled down and have dedicated myself to my ✨ dream job journey ✨! 
-
-In the last year, I've graduated 🎓 with a second bachelors in Information Technology and achieved several programming certificates 🏆. I currently work as a software developer for Approachable Geek building beautiful custom applications.
+I'm a Software Engineer passionate about developing for Apple platforms. Before I was a programmer, I taught science of all different grade levels! Coding used to be my hobby, and I loved teaching after-school students programming when they were bored. During the pandemic, I realized I really wanted to make my hobby my job. So I buckled down and achieved a second bachelors in Information Technology and several programming certificates! Currently I work for ApproachableGeek to build beautiful mobile and web applications, and I use my free time to build apps in Swift using Xcode. My daily workflow includes programming using Test-Driven Development and maintaining a CI/CD workflow using git and GitHub. I'm known on my current team for getting up to speed quickly, excellent organization skills, sharp attention to detail, and making people smile. I thrive in a collaborative environment and love to make products that positively impact the world.
 
 [comment]: <> (Add a cool button to portfolio here - possibly also linkin and twitter?)
 
