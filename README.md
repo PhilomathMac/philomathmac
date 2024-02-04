@@ -37,19 +37,24 @@ I'm a Software Engineer passionate about developing for Apple platforms. Before 
 <br />
 
 # GitHub Stats:
-
-<a href="https://github.com/philomathmac/github-readme-stats">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philomathmac&layout=compact&theme=buefy" />
-</a>
-
+<div style="width: 100%;">
+    <a href="https://github.com/philomathmac/github-readme-stats">
+      <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philomathmac&layout=compact&theme=buefy" />
+    </a>
+  <div style="width: 60%;"></div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
 
 # Featured Repos
-
 <p align="left">
-
 <a href="https://github.com/philomathmac/github-readme-stats">
   <img align="center"  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=philomathmac&repo=weatherly&theme=buefy" />
 </a>
@@ -68,7 +73,6 @@ I'm a Software Engineer passionate about developing for Apple platforms. Before 
 <a href="https://github.com/philomathmac/github-readme-stats">
   <img align="right"  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=philomathmac&repo=bitprice&theme=buefy" />
 </a>
-
 </p>
 
 <br />
