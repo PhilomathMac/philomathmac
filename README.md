@@ -39,10 +39,6 @@ I'm a Software Engineer passionate about developing for Apple platforms. Before 
 # GitHub Stats:
 
 <a href="https://github.com/philomathmac/github-readme-stats">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=philomathmac&hide=issues,contribs&count_private=true&show_icons=true&theme=buefy" />
-</a>
-
-<a href="https://github.com/philomathmac/github-readme-stats">
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philomathmac&layout=compact&theme=buefy" />
 </a>
 
