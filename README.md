@@ -7,6 +7,8 @@ I'm a Software Engineer passionate about developing for Apple platforms. Before 
 
 ### [Let's Connect!](www.linkedin.com/in/mckenzie-macdonald-2b5843236)
 
+### [Recommendations](https://www.linkedin.com/in/mckenzie-macdonald-2b5843236/details/recommendations/)
+
 # Skillset
 <img align="right" width="40%" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/womanCoder.gif" />
 
