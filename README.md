@@ -3,9 +3,10 @@
 </div>
 <br />
 
-I'm a Software Engineer passionate about developing for Apple platforms. Before I was a programmer, I taught science of all different grade levels! Coding used to be my hobby, and I loved teaching after-school students programming when they were bored. During the pandemic, I realized I really wanted to make my hobby my job. So I buckled down and achieved a second bachelors in Information Technology and several programming certificates! Currently I work for ApproachableGeek to build beautiful mobile and web applications, and I use my free time to build apps in Swift using Xcode. My daily workflow includes programming using Test-Driven Development and maintaining a CI/CD workflow using git and GitHub. I'm known on my current team for getting up to speed quickly, excellent organization skills, sharp attention to detail, and making people smile. I thrive in a collaborative environment and love to make products that positively impact the world.
+I'm a Software Engineer passionate about developing for Apple platforms. Before I was a programmer, I taught science of all different grade levels! Coding used to be my hobby, and I loved teaching after-school students programming when they were bored. During the pandemic, I realized I really wanted to make my hobby my job. So I buckled down and achieved a second bachelors in Information Technology and several programming certificates! Currently I work for Approachable Geek to build beautiful mobile and web applications, and I use my free time to build apps in Swift using Xcode. My daily workflow includes programming using Test-Driven Development and maintaining a CI/CD workflow using git and GitHub. I'm known on my current team for getting up to speed quickly, excellent organization skills, sharp attention to detail, and clear communication. I thrive in a collaborative environment and love to make products that positively impact the world.
 
-[comment]: <> (Add a cool button to portfolio here - possibly also linkin and twitter?)
+### Let's Connect!
+[LinkedIn](www.linkedin.com/in/mckenzie-macdonald-2b5843236)
 
 # Skillset
 <img align="right" width="40%" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/womanCoder.gif" />
@@ -15,12 +16,10 @@ I'm a Software Engineer passionate about developing for Apple platforms. Before 
 | Languages   |      Technical Skills      |  Soft Skills      |
 |-------------|----------------------------|-------------------|
 | Swift       |  XCode                     | Organiation       |
-| Dart        |  Flutter                   | Agile Development |
-| Python      |    UIKit                   |  Time Management  |
-| Java        | SwiftUI                    |    Quick Learner  |
-| HTML        | Debugging                  |    Flexibility    |
-| Markdown    | Version Control            |    Collaboration  |
-| .NET        | Git                        |    Communication  |
+| Dart        |  Flutter                   | Communication     |
+| Typescript  |  SwiftUI                   | Time Management   |
+| Markdown    | Testing                    | Quick Learner     |
+| Objective-C | Debugging                  | Collaboration     |
 
 <img align="right" width="40%" alt="" src="https://github.com/PhilomathMac/philomathmac/blob/main/Assets/Philomath.png" />
 
